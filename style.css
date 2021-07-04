@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+}
+.main{
+    text-align: center;
+    margin-top: 5rem;
+    color: honeydew;
+}
+.p1
+{
+    position: absolute;
+    margin-left: 25rem;
+    color: honeydew;
+    font-style: italic;
+}
+.p2
+{
+    position: absolute;
+    margin-left: 50rem;
+    margin-bottom: 5rem;
+    bottom: 5rem;
+    margin-bottom: 23rem;
+    color: honeydew;
+    font-style: italic;
+}
+.img1
+{
+    position: absolute;
+    top: 5rem;
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+.img2
+{
+    position: absolute;
+    margin-left: 45rem;
+    margin-top: 6rem;
+}
